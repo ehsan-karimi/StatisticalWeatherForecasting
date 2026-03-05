@@ -1,4 +1,3 @@
-# app.py
 # FINAL VERSION (Rich story-telling EDA + choose d and D automatically (D ∈ {0,1}) + SARIMA + ARIMA+Fourier + ETS + Seasonal Naive)
 #
 # ✅ Rich EDA (story-telling):
